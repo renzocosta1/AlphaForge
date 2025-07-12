@@ -1,0 +1,35 @@
+# Core dependencies
+pandas>=1.5.0
+numpy>=1.24.0
+requests>=2.28.0
+python-dotenv>=0.19.0
+openpyxl>=3.0.0
+xlsxwriter>=3.0.0
+
+# Financial data APIs
+yfinance>=0.2.0
+sec-edgar-api>=0.1.0
+
+# GUI framework
+PyQt5>=5.15.0
+PyQt5-sip>=12.11.0
+
+# Database
+# sqlite3 is built-in to Python
+
+# Optional APIs (uncomment if using)
+# financialmodelingprep>=0.1.0
+# alpha-vantage>=2.3.0
+
+# Web scraping (optional)
+beautifulsoup4>=4.11.0
+lxml>=4.9.0
+
+# AI/NLP (for local processing if needed)
+openai>=0.27.0
+
+# Development and testing
+pytest>=7.0.0
+pytest-qt>=4.2.0
+black>=22.0.0
+flake8>=5.0.0 
